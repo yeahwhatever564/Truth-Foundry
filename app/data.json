@@ -5,5 +5,138 @@
     "iis": 28,
     "worst": "Cluely ($15M, cheating AI)",
     "roast": "Preaches responsible innovation while funding literal exam-cheating tools. Peak hypocrisy."
+  },
+  {
+    "firm": "Sequoia Capital",
+    "d3s": 79,
+    "iis": 25,
+    "worst": "Multiple surveillance AI bets",
+    "roast": "30% of AUM is 'ESG-integrated' yet keeps dumping cash into privacy nightmares."
+  },
+  {
+    "firm": "Paradigm",
+    "d3s": 88,
+    "iis": 31,
+    "worst": "Worldcoin (iris-scanning orb)",
+    "roast": "Claims 'long-term thinking' while backing dystopian biometric grift."
+  },
+  {
+    "firm": "Tiger Global",
+    "d3s": 76,
+    "iis": 22,
+    "worst": "Massive late-stage AI burn machines",
+    "roast": "Spray-and-pray, but only when the spray is regulatory napalm."
+  },
+  {
+    "firm": "Lightspeed Venture Partners",
+    "d3s": 72,
+    "iis": 19,
+    "worst": "Mistral stake + EU lobbying",
+    "roast": "Funds open-weight models then cries when Europe tries to regulate them."
+  },
+  {
+    "firm": "Benchmark",
+    "d3s": 81,
+    "iis": 27,
+    "worst": "Uber early bets (labor violations)",
+    "roast": "Built empires on gig-economy chaos, now lectures on 'sustainable growth'."
+  },
+  {
+    "firm": "Kleiner Perkins",
+    "d3s": 75,
+    "iis": 21,
+    "worst": "Jawbone (overhyped wearables flop)",
+    "roast": "Pioneered greenwashing before it was cool—still at it with AI 'cleantech'."
+  },
+  {
+    "firm": "Founders Fund",
+    "d3s": 85,
+    "iis": 29,
+    "worst": "SpaceX (regulatory wildcard)",
+    "roast": "Thiel's 'zero to one' includes zero ethics checks."
+  },
+  {
+    "firm": "Bessemer Venture Partners",
+    "d3s": 70,
+    "iis": 18,
+    "worst": "Twilio (data privacy gray areas)",
+    "roast": "'Anti-portfolio' of misses hides the hits built on compliance roulette."
+  },
+  {
+    "firm": "Accel",
+    "d3s": 77,
+    "iis": 23,
+    "worst": "Facebook early (privacy pioneer? lol)",
+    "roast": "Backed the blueprint for data dystopia, now sells 'trustworthy AI'."
+  },
+  {
+    "firm": "Index Ventures",
+    "d3s": 73,
+    "iis": 20,
+    "worst": "Datadog (monitoring overreach)",
+    "roast": "European charm, American-style surveillance funding."
+  },
+  {
+    "firm": "Greylock Partners",
+    "d3s": 82,
+    "iis": 26,
+    "worst": "LinkedIn (data hoover)",
+    "roast": "Networks are great—until they're your personal panopticon."
+  },
+  {
+    "firm": "Union Square Ventures",
+    "d3s": 68,
+    "iis": 17,
+    "worst": "Coinbase (crypto wild west)",
+    "roast": "'Decentralized future' means centralized risk for everyone else."
+  },
+  {
+    "firm": "New Enterprise Associates (NEA)",
+    "d3s": 74,
+    "iis": 19,
+    "worst": "Workday (HR surveillance)",
+    "roast": "Enterprise software: where 'productivity' meets Big Brother."
+  },
+  {
+    "firm": "Redpoint Ventures",
+    "d3s": 80,
+    "iis": 24,
+    "worst": "Looker (data analytics overkill)",
+    "roast": "Sees all your data sins but funds none of the fixes."
+  },
+  {
+    "firm": "Battery Ventures",
+    "d3s": 71,
+    "iis": 16,
+    "worst": "Coupa (procurement pitfalls)",
+    "roast": "'Efficiency' expert, but only if you ignore the ethics bill."
+  },
+  {
+    "firm": "Menlo Ventures",
+    "d3s": 83,
+    "iis": 27,
+    "worst": "Roku (ad-tracking empire)",
+    "roast": "Streaming freedom? More like surveillance streaming."
+  },
+  {
+    "firm": "Norwest Venture Partners",
+    "d3s": 69,
+    "iis": 15,
+    "worst": "AppDynamics (enterprise spying)",
+    "roast": "Monitors your apps so you don't have to—until the fines hit."
+  },
+  {
+    "firm": "Insight Partners",
+    "d3s": 78,
+    "iis": 22,
+    "worst": "CoreSite (cloud compliance gaps)",
+    "roast": "Cloud kings, but only if the regs stay foggy."
+  },
+  {
+    "firm": "IVP",
+    "d3s": 67,
+    "iis": 14,
+    "worst": "Segment (data pipeline risks)",
+    "roast": "Pipes your data straight to the regulators' doorstep."
   }
 ]
