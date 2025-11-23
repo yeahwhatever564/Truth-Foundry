@@ -1,4 +1,4 @@
-// Fallback if data.json missing—prevents build crash
+// Fallback data if data.json is missing—prevents build errors
 const fallbackData = [
   {
     "firm": "a16z Crypto",
@@ -6,15 +6,24 @@ const fallbackData = [
     "iis": 28,
     "worst": "Cluely ($15M, cheating AI)",
     "roast": "Preaches responsible innovation while funding literal exam-cheating tools. Peak hypocrisy."
+  },
+  {
+    "firm": "Sequoia Capital",
+    "d3s": 79,
+    "iis": 25,
+    "worst": "Multiple surveillance AI bets",
+    "roast": "30% of AUM is 'ESG-integrated' yet keeps dumping cash into privacy nightmares."
   }
+  // Add more rows later—starts with 2 for testing
 ];
 
 let data = fallbackData;
 
+// Try to load real data.json if it exists
 try {
   data = require('./data.json');
 } catch (e) {
-  console.log('data.json missing—using fallback');
+  console.log('Using fallback data');
 }
 
 export default function Home() {
